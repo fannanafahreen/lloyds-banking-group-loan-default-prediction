@@ -190,7 +190,7 @@ Despite testing multiple algorithms and techniques, model accuracy remained in t
 
 **Fannana Fahreen Aanan**
 MSc Data Science (FinTech) — University of Greenwich
-Digdata Virtual Work Experience — Lloyds Banking Group Step Up Challenge
+_ Digdata Virtual Work Experience — Lloyds Banking Group Step Up Challenge
 
 ---
 
