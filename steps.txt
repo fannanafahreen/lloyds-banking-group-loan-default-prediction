@@ -1,0 +1,14 @@
+TASK 1 (do this first — it's easier)
+├── Step 1: Load dataset in Power BI or Excel
+├── Step 2: Filter by loan_status (Fully Paid vs Charged Off)
+├── Step 3: Compare income, loan amount, credit score etc.
+├── Step 4: Create charts showing the differences
+└── Step 5: Put findings in a PowerPoint slide
+
+TASK 2 (do this second)
+├── Step 1: Load dataset in Python
+├── Step 2: Clean the data
+├── Step 3: Build Random Forest model
+├── Step 4: Evaluate with confusion matrix
+├── Step 5: Show feature importance (what drives default?)
+└── Step 6: Write up explanation
