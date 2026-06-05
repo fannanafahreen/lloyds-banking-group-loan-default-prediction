@@ -29,6 +29,10 @@ Lloyds Banking Group is launching a new loans product and needs a reliable, fair
 | Charged Off | 3,906 (21%) |
 | Source | Lloyds Banking Group via Digdata |
 
+The dataset was provided by Lloyds Banking Group via Digdata 
+and is not included in this repository for data privacy reasons. 
+Please contact Digdata to access the original dataset.
+
 ### Key Features
 - `loan_amnt` — Loan amount borrowed
 - `int_rate` — Interest rate on the loan
